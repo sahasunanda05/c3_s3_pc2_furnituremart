@@ -1,5 +1,7 @@
 package com.furniture;
 
+import static java.lang.System.*;
+
 public class FunitureItemImpl {
     public static void main(String[] args) {
         FurnitureItem obj = new FurnitureItem();

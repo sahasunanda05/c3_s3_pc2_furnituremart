@@ -4,7 +4,7 @@ public class FurnitureItem {
     static final int Discount = 5;
     private int furnitureCode;
     private String furnitureType;
-    private String gradeOfFurniture;
+    private java.lang.String gradeOfFurniture;
     private String color;
     private String furnitureUsage;
     private float price;

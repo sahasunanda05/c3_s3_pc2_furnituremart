@@ -1,7 +1,5 @@
 package com.furniture;
 
-import static java.lang.System.*;
-
 public class FunitureItemImpl {
     public static void main(String[] args) {
         FurnitureItem obj = new FurnitureItem();
@@ -17,6 +15,7 @@ public class FunitureItemImpl {
         System.out.println("price = $" + obj.getPrice());
 
         System.out.println("Discounted Price is = $" + obj.calculateDiscount());
+
 
     }
 }
